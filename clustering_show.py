@@ -220,29 +220,23 @@ def diarize_and_cluster(directory):
 
   # Load embeddings into list, create list of titles
   embed_list, titles = load_embeddings_create_titles(embed_paths)
-  print("1")
   # Create cut points from embedding list
   cut_points = create_cut_points(embed_list)
-  print("2")
   # Concatenating all embedding arrays into one
   embeddings = np.concatenate(embed_list)
-  print("3")
+  
   # Load segmentations into list
   segment_list = load_files(segment_paths)
-  print("4")
   # Concatenating all segmentation SlidingWindowFeature files
   segmentation = combine_all(segment_list)
-  print("5")
+  
   # Load speakers into list
   speaker_list = load_files(speakers_paths)
-  print("6")
   # Concatenating all speaker count SlidingWindowFeature files
   speaker_count = combine_all(speaker_list)
-  print("7")
+  
   # Get episode lengths and cut points in seconds, both into a list
   ep_lengths, cut_points_seconds = get_ep_length_and_cutpts(segment_list, cut_points)
-
-  print ("sqtrting")
 
   # Cluster all episodes
   diarization = reconstructed_clustering(segmentation, embeddings, speaker_count)
@@ -318,7 +312,7 @@ final = save_csv(df_dict, ep_lengths, sys.argv[2], sys.argv[3])
 # sys.argv[2] = destination directory
 # sys.argv[3] = TV show name
 
-
+# Commands:
 # python clustering_show.py ./Men/The_Punisher ./Clustered_final "The Punsiher"
 # python clustering_show.py ./Men/The_Wire ./Clustered_final "The Wire"
 # python clustering_show.py ./Men/Spartacus ./Clustered_final Spartacus
