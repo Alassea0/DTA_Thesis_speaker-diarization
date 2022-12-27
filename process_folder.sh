@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FOLDER="/audio/"
+FOLDER="./Data/Audio/"
 
 PARALLEL=$1
 if [ "x$PARALLEL" == "x" ]; then
