@@ -31,8 +31,6 @@ def create_paths(directory):
       embed.append(f + ".emb.npz")
       segment.append(f + ".seg")
       speakers.append(f + ".sc")
-      if len(speakers) == 2:
-        break
   return embed, segment, speakers
 
 ##### EMBEDDINGS #####
