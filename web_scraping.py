@@ -73,7 +73,7 @@ def remove_str(votes):
 for df, title in zip(df_list, titles):
     df['total_votes'] = df['total_votes'].apply(remove_str).astype(int)
     df['rating'] = df['rating'].astype(float)
-    df.to_csv("./Data/" + title + ".csv", index=False) 
+    df.to_csv("./Data/Ratings/" + title + ".csv", index=False) 
 
 
 
