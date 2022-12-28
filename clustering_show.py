@@ -272,10 +272,10 @@ def split_dataframe(index_numbers, df, titles):
   return df_dict
 
 def final_all(directory):
-  df, cut_points_seconds, titles = diarize_and_cluster(directory)
+  df, cut_points_seconds, titles, ep_lengths = diarize_and_cluster(directory)
   index_list = create_index_list(cut_points_seconds, df)
   df_dict = split_dataframe(index_list, df, titles)
-  return df_dict, titles
+  return df_dict, titles, ep_lengths
 
 def save_csv(df_dict, ep_lengths, directory, show_title):
   order = []
