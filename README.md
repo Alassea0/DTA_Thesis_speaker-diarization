@@ -1,4 +1,5 @@
-# DTA_Thesis_speaker-diarization
+# DTA Thesis Speaker Diarization
+
 Thesis for the Master of Digital Text Analysis at the University of Antwerp: speaker diarization tool for multiple audio files
 ---
 The following tool creates a speaker diarization file for consecutive audio files from TV shows, with consistent speaker tags throughout the TV show.
