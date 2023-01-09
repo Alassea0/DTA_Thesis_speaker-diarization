@@ -6,6 +6,8 @@ The following tool creates a speaker diarization file for consecutive audio file
 
 To do this, it first extracts speaker embeddings, segmentations and speaker counts from each episode with [pyannote.audio](https://github.com/pyannote/pyannote-audio)'s speaker diarization model, then it merges the files into one, at which point the clustering step from pyannote's speaker diarization model is applied to the merged file. After the clustering is done, it then separates the file per episode, puts them in the correct order and assigns the episode season and number to each episode. The file is then once again merged into one, so the output is a single csv file per TV show. This file can then be used to perform social network analysis on the TV shows.
 
+![Social Network for Bridgerton](/Images/Bridgerton_network.png?raw=true "Social Network for Bridgerton")
+
 
 ---
 In order to use the tool, the following commands must be run on the terminal\footnote{These commands are specific to a Linux Debian system, changes may need to be made for Mac or Windows systems.}:
