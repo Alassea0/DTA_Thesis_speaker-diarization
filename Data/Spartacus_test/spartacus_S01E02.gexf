@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-01-02">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="SPEAKER_06" label="SPEAKER_06" />
+      <node id="Sura" label="Sura" />
+      <node id="SPEAKER_07" label="SPEAKER_07" />
+      <node id="Spartacus" label="Spartacus" />
+      <node id="Claudius" label="Claudius" />
+      <node id="Batiatus" label="Batiatus" />
+      <node id="SPEAKER_18" label="SPEAKER_18" />
+      <node id="Screaming_and_grunts" label="Screaming_and_grunts" />
+      <node id="Oenomaus" label="Oenomaus" />
+      <node id="SPEAKER_00" label="SPEAKER_00" />
+      <node id="Lucretia" label="Lucretia" />
+      <node id="Crixus" label="Crixus" />
+      <node id="SPEAKER_10" label="SPEAKER_10" />
+      <node id="SPEAKER_01" label="SPEAKER_01" />
+      <node id="SPEAKER_14" label="SPEAKER_14" />
+      <node id="Varro" label="Varro" />
+      <node id="SPEAKER_13" label="SPEAKER_13" />
+      <node id="SPEAKER_03" label="SPEAKER_03" />
+      <node id="SPEAKER_05" label="SPEAKER_05" />
+      <node id="SPEAKER_16" label="SPEAKER_16" />
+    </nodes>
+    <edges>
+      <edge source="SPEAKER_06" target="Sura" id="0" weight="1" />
+      <edge source="SPEAKER_06" target="SPEAKER_07" id="1" weight="2" />
+      <edge source="SPEAKER_06" target="Crixus" id="2" weight="2" />
+      <edge source="SPEAKER_06" target="Oenomaus" id="3" weight="4" />
+      <edge source="SPEAKER_06" target="Batiatus" id="4" weight="1" />
+      <edge source="SPEAKER_06" target="Lucretia" id="5" weight="1" />
+      <edge source="SPEAKER_06" target="SPEAKER_18" id="6" weight="1" />
+      <edge source="Sura" target="Claudius" id="7" weight="2" />
+      <edge source="Sura" target="Spartacus" id="8" weight="2" />
+      <edge source="Sura" target="Batiatus" id="9" weight="2" />
+      <edge source="SPEAKER_07" target="Spartacus" id="10" weight="2" />
+      <edge source="SPEAKER_07" target="SPEAKER_10" id="11" weight="1" />
+      <edge source="SPEAKER_07" target="Oenomaus" id="12" weight="2" />
+      <edge source="SPEAKER_07" target="Crixus" id="13" weight="2" />
+      <edge source="SPEAKER_07" target="Claudius" id="14" weight="1" />
+      <edge source="SPEAKER_07" target="SPEAKER_03" id="15" weight="2" />
+      <edge source="Spartacus" target="Claudius" id="16" weight="4" />
+      <edge source="Spartacus" target="Batiatus" id="17" weight="13" />
+      <edge source="Spartacus" target="Crixus" id="18" weight="3" />
+      <edge source="Spartacus" target="SPEAKER_14" id="19" weight="1" />
+      <edge source="Spartacus" target="Screaming_and_grunts" id="20" weight="2" />
+      <edge source="Spartacus" target="Oenomaus" id="21" weight="1" />
+      <edge source="Spartacus" target="Varro" id="22" weight="3" />
+      <edge source="Spartacus" target="SPEAKER_05" id="23" weight="1" />
+      <edge source="Claudius" target="Batiatus" id="24" weight="3" />
+      <edge source="Claudius" target="SPEAKER_18" id="25" weight="1" />
+      <edge source="Claudius" target="Oenomaus" id="26" weight="2" />
+      <edge source="Claudius" target="Screaming_and_grunts" id="27" weight="4" />
+      <edge source="Claudius" target="SPEAKER_00" id="28" weight="1" />
+      <edge source="Claudius" target="SPEAKER_16" id="29" weight="2" />
+      <edge source="Batiatus" target="SPEAKER_18" id="30" weight="4" />
+      <edge source="Batiatus" target="Screaming_and_grunts" id="31" weight="6" />
+      <edge source="Batiatus" target="SPEAKER_00" id="32" weight="3" />
+      <edge source="Batiatus" target="Lucretia" id="33" weight="28" />
+      <edge source="Batiatus" target="Crixus" id="34" weight="3" />
+      <edge source="Batiatus" target="Oenomaus" id="35" weight="10" />
+      <edge source="Batiatus" target="Varro" id="36" weight="4" />
+      <edge source="Batiatus" target="SPEAKER_13" id="37" weight="11" />
+      <edge source="Batiatus" target="SPEAKER_03" id="38" weight="2" />
+      <edge source="Batiatus" target="SPEAKER_16" id="39" weight="1" />
+      <edge source="Batiatus" target="SPEAKER_14" id="40" weight="2" />
+      <edge source="SPEAKER_18" target="SPEAKER_13" id="41" weight="1" />
+      <edge source="SPEAKER_18" target="Crixus" id="42" weight="1" />
+      <edge source="Screaming_and_grunts" target="Oenomaus" id="43" weight="10" />
+      <edge source="Screaming_and_grunts" target="Lucretia" id="44" weight="3" />
+      <edge source="Screaming_and_grunts" target="Varro" id="45" weight="1" />
+      <edge source="Screaming_and_grunts" target="SPEAKER_00" id="46" weight="2" />
+      <edge source="Screaming_and_grunts" target="SPEAKER_01" id="47" weight="1" />
+      <edge source="Screaming_and_grunts" target="Crixus" id="48" weight="1" />
+      <edge source="Screaming_and_grunts" target="SPEAKER_14" id="49" weight="2" />
+      <edge source="Oenomaus" target="SPEAKER_00" id="50" weight="2" />
+      <edge source="Oenomaus" target="Crixus" id="51" weight="3" />
+      <edge source="Oenomaus" target="SPEAKER_14" id="52" weight="2" />
+      <edge source="Oenomaus" target="SPEAKER_01" id="53" weight="1" />
+      <edge source="Oenomaus" target="Lucretia" id="54" weight="1" />
+      <edge source="SPEAKER_00" target="SPEAKER_16" id="55" weight="1" />
+      <edge source="SPEAKER_00" target="SPEAKER_14" id="56" weight="1" />
+      <edge source="Lucretia" target="SPEAKER_16" id="57" weight="6" />
+      <edge source="Lucretia" target="Crixus" id="58" weight="1" />
+      <edge source="Crixus" target="SPEAKER_10" id="59" weight="4" />
+      <edge source="Crixus" target="SPEAKER_01" id="60" weight="1" />
+      <edge source="Crixus" target="SPEAKER_14" id="61" weight="2" />
+      <edge source="Crixus" target="Varro" id="62" weight="1" />
+      <edge source="SPEAKER_10" target="SPEAKER_01" id="63" weight="2" />
+      <edge source="SPEAKER_10" target="Varro" id="64" weight="1" />
+      <edge source="SPEAKER_01" target="Varro" id="65" weight="1" />
+      <edge source="Varro" target="SPEAKER_03" id="66" weight="2" />
+      <edge source="Varro" target="SPEAKER_05" id="67" weight="1" />
+    </edges>
+  </graph>
+</gexf>

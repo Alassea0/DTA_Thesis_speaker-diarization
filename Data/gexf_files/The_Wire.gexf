@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-01-07">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Frank_Sobotka" label="Frank_Sobotka" />
+      <node id="Lester" label="Lester" />
+      <node id="SPEAKER_04" label="SPEAKER_04" />
+      <node id="Kima/Marla" label="Kima/Marla" />
+      <node id="Cedric" label="Cedric" />
+      <node id="SPEAKER_19" label="SPEAKER_19" />
+      <node id="D'Angelo" label="D'Angelo" />
+      <node id="various_songs" label="various_songs" />
+      <node id="Maurice" label="Maurice" />
+      <node id="Omar" label="Omar" />
+      <node id="Bubbles" label="Bubbles" />
+      <node id="William_Rawls" label="William_Rawls" />
+      <node id="D'Angelo/Preston/Malik" label="D'Angelo/Preston/Malik" />
+      <node id="Proposition_Joe" label="Proposition_Joe" />
+      <node id="Ellis_Carver/Ziggy" label="Ellis_Carver/Ziggy" />
+      <node id="SPEAKER_18" label="SPEAKER_18" />
+      <node id="Roland" label="Roland" />
+      <node id="SPEAKER_08" label="SPEAKER_08" />
+      <node id="McNulty" label="McNulty" />
+      <node id="Herc" label="Herc" />
+      <node id="SPEAKER_21" label="SPEAKER_21" />
+      <node id="Ervin" label="Ervin" />
+      <node id="Rhonda" label="Rhonda" />
+      <node id="Stinger" label="Stinger" />
+      <node id="Moreland" label="Moreland" />
+      <node id="Rhonda/Marla" label="Rhonda/Marla" />
+    </nodes>
+    <edges>
+      <edge source="Frank_Sobotka" target="Lester" id="0" weight="41" />
+      <edge source="Frank_Sobotka" target="SPEAKER_04" id="1" weight="43" />
+      <edge source="Frank_Sobotka" target="Bubbles" id="2" weight="132" />
+      <edge source="Frank_Sobotka" target="Maurice" id="3" weight="87" />
+      <edge source="Frank_Sobotka" target="McNulty" id="4" weight="85" />
+      <edge source="Frank_Sobotka" target="SPEAKER_21" id="5" weight="22" />
+      <edge source="Frank_Sobotka" target="SPEAKER_19" id="6" weight="68" />
+      <edge source="Frank_Sobotka" target="D'Angelo" id="7" weight="51" />
+      <edge source="Frank_Sobotka" target="Roland" id="8" weight="17" />
+      <edge source="Frank_Sobotka" target="Omar" id="9" weight="100" />
+      <edge source="Frank_Sobotka" target="Stinger" id="10" weight="46" />
+      <edge source="Frank_Sobotka" target="Herc" id="11" weight="24" />
+      <edge source="Frank_Sobotka" target="Rhonda/Marla" id="12" weight="29" />
+      <edge source="Frank_Sobotka" target="Ervin" id="13" weight="51" />
+      <edge source="Frank_Sobotka" target="Moreland" id="14" weight="36" />
+      <edge source="Frank_Sobotka" target="various_songs" id="15" weight="156" />
+      <edge source="Frank_Sobotka" target="Proposition_Joe" id="16" weight="32" />
+      <edge source="Frank_Sobotka" target="William_Rawls" id="17" weight="40" />
+      <edge source="Frank_Sobotka" target="Ellis_Carver/Ziggy" id="18" weight="30" />
+      <edge source="Frank_Sobotka" target="Rhonda" id="19" weight="89" />
+      <edge source="Frank_Sobotka" target="Kima/Marla" id="20" weight="62" />
+      <edge source="Frank_Sobotka" target="D'Angelo/Preston/Malik" id="21" weight="13" />
+      <edge source="Frank_Sobotka" target="Cedric" id="22" weight="25" />
+      <edge source="Frank_Sobotka" target="SPEAKER_18" id="23" weight="18" />
+      <edge source="Frank_Sobotka" target="SPEAKER_08" id="24" weight="27" />
+      <edge source="Lester" target="SPEAKER_04" id="25" weight="23" />
+      <edge source="Lester" target="Kima/Marla" id="26" weight="7" />
+      <edge source="Lester" target="Cedric" id="27" weight="11" />
+      <edge source="Lester" target="SPEAKER_19" id="28" weight="53" />
+      <edge source="Lester" target="D'Angelo" id="29" weight="20" />
+      <edge source="Lester" target="Omar" id="30" weight="208" />
+      <edge source="Lester" target="Bubbles" id="31" weight="86" />
+      <edge source="Lester" target="Maurice" id="32" weight="50" />
+      <edge source="Lester" target="Proposition_Joe" id="33" weight="16" />
+      <edge source="Lester" target="SPEAKER_18" id="34" weight="8" />
+      <edge source="Lester" target="Roland" id="35" weight="20" />
+      <edge source="Lester" target="D'Angelo/Preston/Malik" id="36" weight="5" />
+      <edge source="Lester" target="Ellis_Carver/Ziggy" id="37" weight="6" />
+      <edge source="Lester" target="William_Rawls" id="38" weight="24" />
+      <edge source="Lester" target="McNulty" id="39" weight="17" />
+      <edge source="Lester" target="Herc" id="40" weight="13" />
+      <edge source="Lester" target="Moreland" id="41" weight="5" />
+      <edge source="Lester" target="various_songs" id="42" weight="28" />
+      <edge source="Lester" target="Rhonda/Marla" id="43" weight="14" />
+      <edge source="Lester" target="Rhonda" id="44" weight="12" />
+      <edge source="Lester" target="Ervin" id="45" weight="6" />
+      <edge source="Lester" target="Stinger" id="46" weight="9" />
+      <edge source="Lester" target="SPEAKER_21" id="47" weight="8" />
+      <edge source="Lester" target="SPEAKER_08" id="48" weight="3" />
+      <edge source="SPEAKER_04" target="Bubbles" id="49" weight="132" />
+      <edge source="SPEAKER_04" target="Roland" id="50" weight="24" />
+      <edge source="SPEAKER_04" target="William_Rawls" id="51" weight="21" />
+      <edge source="SPEAKER_04" target="Ervin" id="52" weight="24" />
+      <edge source="SPEAKER_04" target="D'Angelo/Preston/Malik" id="53" weight="3" />
+      <edge source="SPEAKER_04" target="Kima/Marla" id="54" weight="9" />
+      <edge source="SPEAKER_04" target="Herc" id="55" weight="44" />
+      <edge source="SPEAKER_04" target="McNulty" id="56" weight="33" />
+      <edge source="SPEAKER_04" target="Proposition_Joe" id="57" weight="24" />
+      <edge source="SPEAKER_04" target="SPEAKER_08" id="58" weight="40" />
+      <edge source="SPEAKER_04" target="SPEAKER_19" id="59" weight="21" />
+      <edge source="SPEAKER_04" target="Cedric" id="60" weight="29" />
+      <edge source="SPEAKER_04" target="Stinger" id="61" weight="23" />
+      <edge source="SPEAKER_04" target="Maurice" id="62" weight="24" />
+      <edge source="SPEAKER_04" target="Rhonda" id="63" weight="11" />
+      <edge source="SPEAKER_04" target="SPEAKER_18" id="64" weight="30" />
+      <edge source="SPEAKER_04" target="Rhonda/Marla" id="65" weight="5" />
+      <edge source="SPEAKER_04" target="various_songs" id="66" weight="34" />
+      <edge source="SPEAKER_04" target="D'Angelo" id="67" weight="34" />
+      <edge source="SPEAKER_04" target="SPEAKER_21" id="68" weight="13" />
+      <edge source="SPEAKER_04" target="Omar" id="69" weight="8" />
+      <edge source="SPEAKER_04" target="Ellis_Carver/Ziggy" id="70" weight="6" />
+      <edge source="SPEAKER_04" target="Moreland" id="71" weight="44" />
+      <edge source="Kima/Marla" target="Cedric" id="72" weight="9" />
+      <edge source="Kima/Marla" target="Rhonda" id="73" weight="41" />
+      <edge source="Kima/Marla" target="Bubbles" id="74" weight="122" />
+      <edge source="Kima/Marla" target="Omar" id="75" weight="20" />
+      <edge source="Kima/Marla" target="SPEAKER_19" id="76" weight="20" />
+      <edge source="Kima/Marla" target="SPEAKER_08" id="77" weight="4" />
+      <edge source="Kima/Marla" target="Maurice" id="78" weight="57" />
+      <edge source="Kima/Marla" target="Stinger" id="79" weight="5" />
+      <edge source="Kima/Marla" target="McNulty" id="80" weight="2" />
+      <edge source="Kima/Marla" target="SPEAKER_18" id="81" weight="3" />
+      <edge source="Kima/Marla" target="William_Rawls" id="82" weight="17" />
+      <edge source="Kima/Marla" target="Roland" id="83" weight="7" />
+      <edge source="Kima/Marla" target="various_songs" id="84" weight="55" />
+      <edge source="Kima/Marla" target="D'Angelo" id="85" weight="5" />
+      <edge source="Kima/Marla" target="Herc" id="86" weight="13" />
+      <edge source="Kima/Marla" target="Moreland" id="87" weight="4" />
+      <edge source="Kima/Marla" target="SPEAKER_21" id="88" weight="6" />
+      <edge source="Kima/Marla" target="D'Angelo/Preston/Malik" id="89" weight="4" />
+      <edge source="Kima/Marla" target="Ellis_Carver/Ziggy" id="90" weight="2" />
+      <edge source="Kima/Marla" target="Ervin" id="91" weight="8" />
+      <edge source="Kima/Marla" target="Rhonda/Marla" id="92" weight="1" />
+      <edge source="Kima/Marla" target="Proposition_Joe" id="93" weight="1" />
+      <edge source="Cedric" target="William_Rawls" id="94" weight="27" />
+      <edge source="Cedric" target="Maurice" id="95" weight="26" />
+      <edge source="Cedric" target="Rhonda/Marla" id="96" weight="9" />
+      <edge source="Cedric" target="Bubbles" id="97" weight="69" />
+      <edge source="Cedric" target="various_songs" id="98" weight="72" />
+      <edge source="Cedric" target="Omar" id="99" weight="13" />
+      <edge source="Cedric" target="SPEAKER_19" id="100" weight="21" />
+      <edge source="Cedric" target="Herc" id="101" weight="29" />
+      <edge source="Cedric" target="McNulty" id="102" weight="11" />
+      <edge source="Cedric" target="Ervin" id="103" weight="7" />
+      <edge source="Cedric" target="Ellis_Carver/Ziggy" id="104" weight="37" />
+      <edge source="Cedric" target="SPEAKER_21" id="105" weight="8" />
+      <edge source="Cedric" target="Roland" id="106" weight="11" />
+      <edge source="Cedric" target="Proposition_Joe" id="107" weight="21" />
+      <edge source="Cedric" target="SPEAKER_18" id="108" weight="11" />
+      <edge source="Cedric" target="Moreland" id="109" weight="9" />
+      <edge source="Cedric" target="Rhonda" id="110" weight="8" />
+      <edge source="Cedric" target="D'Angelo/Preston/Malik" id="111" weight="3" />
+      <edge source="Cedric" target="D'Angelo" id="112" weight="2" />
+      <edge source="Cedric" target="Stinger" id="113" weight="5" />
+      <edge source="Cedric" target="SPEAKER_08" id="114" weight="11" />
+      <edge source="SPEAKER_19" target="Bubbles" id="115" weight="293" />
+      <edge source="SPEAKER_19" target="William_Rawls" id="116" weight="35" />
+      <edge source="SPEAKER_19" target="Maurice" id="117" weight="180" />
+      <edge source="SPEAKER_19" target="D'Angelo/Preston/Malik" id="118" weight="26" />
+      <edge source="SPEAKER_19" target="D'Angelo" id="119" weight="19" />
+      <edge source="SPEAKER_19" target="SPEAKER_08" id="120" weight="19" />
+      <edge source="SPEAKER_19" target="Omar" id="121" weight="15" />
+      <edge source="SPEAKER_19" target="Proposition_Joe" id="122" weight="30" />
+      <edge source="SPEAKER_19" target="Roland" id="123" weight="30" />
+      <edge source="SPEAKER_19" target="Ellis_Carver/Ziggy" id="124" weight="22" />
+      <edge source="SPEAKER_19" target="SPEAKER_18" id="125" weight="19" />
+      <edge source="SPEAKER_19" target="Stinger" id="126" weight="63" />
+      <edge source="SPEAKER_19" target="Rhonda/Marla" id="127" weight="22" />
+      <edge source="SPEAKER_19" target="various_songs" id="128" weight="26" />
+      <edge source="SPEAKER_19" target="Ervin" id="129" weight="17" />
+      <edge source="SPEAKER_19" target="Rhonda" id="130" weight="15" />
+      <edge source="SPEAKER_19" target="SPEAKER_21" id="131" weight="13" />
+      <edge source="SPEAKER_19" target="McNulty" id="132" weight="26" />
+      <edge source="SPEAKER_19" target="Herc" id="133" weight="22" />
+      <edge source="SPEAKER_19" target="Moreland" id="134" weight="16" />
+      <edge source="D'Angelo" target="various_songs" id="135" weight="47" />
+      <edge source="D'Angelo" target="Bubbles" id="136" weight="67" />
+      <edge source="D'Angelo" target="D'Angelo/Preston/Malik" id="137" weight="5" />
+      <edge source="D'Angelo" target="Omar" id="138" weight="26" />
+      <edge source="D'Angelo" target="Roland" id="139" weight="8" />
+      <edge source="D'Angelo" target="William_Rawls" id="140" weight="13" />
+      <edge source="D'Angelo" target="Maurice" id="141" weight="24" />
+      <edge source="D'Angelo" target="McNulty" id="142" weight="37" />
+      <edge source="D'Angelo" target="Ervin" id="143" weight="20" />
+      <edge source="D'Angelo" target="SPEAKER_18" id="144" weight="6" />
+      <edge source="D'Angelo" target="Moreland" id="145" weight="17" />
+      <edge source="D'Angelo" target="Rhonda/Marla" id="146" weight="12" />
+      <edge source="D'Angelo" target="SPEAKER_21" id="147" weight="2" />
+      <edge source="D'Angelo" target="Rhonda" id="148" weight="11" />
+      <edge source="D'Angelo" target="Proposition_Joe" id="149" weight="10" />
+      <edge source="D'Angelo" target="Herc" id="150" weight="9" />
+      <edge source="D'Angelo" target="Stinger" id="151" weight="12" />
+      <edge source="D'Angelo" target="Ellis_Carver/Ziggy" id="152" weight="6" />
+      <edge source="D'Angelo" target="SPEAKER_08" id="153" weight="3" />
+      <edge source="various_songs" target="Maurice" id="154" weight="83" />
+      <edge source="various_songs" target="McNulty" id="155" weight="26" />
+      <edge source="various_songs" target="Proposition_Joe" id="156" weight="16" />
+      <edge source="various_songs" target="William_Rawls" id="157" weight="40" />
+      <edge source="various_songs" target="Rhonda" id="158" weight="181" />
+      <edge source="various_songs" target="Rhonda/Marla" id="159" weight="10" />
+      <edge source="various_songs" target="D'Angelo/Preston/Malik" id="160" weight="11" />
+      <edge source="various_songs" target="Omar" id="161" weight="87" />
+      <edge source="various_songs" target="Bubbles" id="162" weight="139" />
+      <edge source="various_songs" target="Ellis_Carver/Ziggy" id="163" weight="52" />
+      <edge source="various_songs" target="SPEAKER_21" id="164" weight="25" />
+      <edge source="various_songs" target="Herc" id="165" weight="54" />
+      <edge source="various_songs" target="Roland" id="166" weight="15" />
+      <edge source="various_songs" target="Stinger" id="167" weight="36" />
+      <edge source="various_songs" target="Moreland" id="168" weight="21" />
+      <edge source="various_songs" target="SPEAKER_08" id="169" weight="16" />
+      <edge source="various_songs" target="Ervin" id="170" weight="25" />
+      <edge source="various_songs" target="SPEAKER_18" id="171" weight="11" />
+      <edge source="Maurice" target="Omar" id="172" weight="52" />
+      <edge source="Maurice" target="Bubbles" id="173" weight="508" />
+      <edge source="Maurice" target="McNulty" id="174" weight="62" />
+      <edge source="Maurice" target="William_Rawls" id="175" weight="57" />
+      <edge source="Maurice" target="Rhonda" id="176" weight="32" />
+      <edge source="Maurice" target="Proposition_Joe" id="177" weight="44" />
+      <edge source="Maurice" target="SPEAKER_18" id="178" weight="34" />
+      <edge source="Maurice" target="Roland" id="179" weight="25" />
+      <edge source="Maurice" target="Rhonda/Marla" id="180" weight="16" />
+      <edge source="Maurice" target="Ellis_Carver/Ziggy" id="181" weight="52" />
+      <edge source="Maurice" target="SPEAKER_21" id="182" weight="29" />
+      <edge source="Maurice" target="D'Angelo/Preston/Malik" id="183" weight="27" />
+      <edge source="Maurice" target="Stinger" id="184" weight="60" />
+      <edge source="Maurice" target="Herc" id="185" weight="35" />
+      <edge source="Maurice" target="Ervin" id="186" weight="41" />
+      <edge source="Maurice" target="SPEAKER_08" id="187" weight="35" />
+      <edge source="Maurice" target="Moreland" id="188" weight="22" />
+      <edge source="Omar" target="William_Rawls" id="189" weight="18" />
+      <edge source="Omar" target="Bubbles" id="190" weight="56" />
+      <edge source="Omar" target="D'Angelo/Preston/Malik" id="191" weight="4" />
+      <edge source="Omar" target="Stinger" id="192" weight="23" />
+      <edge source="Omar" target="SPEAKER_08" id="193" weight="7" />
+      <edge source="Omar" target="Proposition_Joe" id="194" weight="6" />
+      <edge source="Omar" target="Roland" id="195" weight="12" />
+      <edge source="Omar" target="Ellis_Carver/Ziggy" id="196" weight="5" />
+      <edge source="Omar" target="McNulty" id="197" weight="13" />
+      <edge source="Omar" target="Herc" id="198" weight="22" />
+      <edge source="Omar" target="Rhonda" id="199" weight="54" />
+      <edge source="Omar" target="Rhonda/Marla" id="200" weight="4" />
+      <edge source="Omar" target="Ervin" id="201" weight="14" />
+      <edge source="Omar" target="SPEAKER_21" id="202" weight="13" />
+      <edge source="Omar" target="Moreland" id="203" weight="14" />
+      <edge source="Omar" target="SPEAKER_18" id="204" weight="2" />
+      <edge source="Bubbles" target="D'Angelo/Preston/Malik" id="205" weight="104" />
+      <edge source="Bubbles" target="Rhonda" id="206" weight="48" />
+      <edge source="Bubbles" target="Stinger" id="207" weight="77" />
+      <edge source="Bubbles" target="Roland" id="208" weight="92" />
+      <edge source="Bubbles" target="SPEAKER_18" id="209" weight="63" />
+      <edge source="Bubbles" target="William_Rawls" id="210" weight="149" />
+      <edge source="Bubbles" target="Herc" id="211" weight="108" />
+      <edge source="Bubbles" target="Proposition_Joe" id="212" weight="83" />
+      <edge source="Bubbles" target="Moreland" id="213" weight="55" />
+      <edge source="Bubbles" target="McNulty" id="214" weight="106" />
+      <edge source="Bubbles" target="Rhonda/Marla" id="215" weight="44" />
+      <edge source="Bubbles" target="Ellis_Carver/Ziggy" id="216" weight="66" />
+      <edge source="Bubbles" target="Ervin" id="217" weight="103" />
+      <edge source="Bubbles" target="SPEAKER_21" id="218" weight="60" />
+      <edge source="Bubbles" target="SPEAKER_08" id="219" weight="52" />
+      <edge source="William_Rawls" target="Proposition_Joe" id="220" weight="45" />
+      <edge source="William_Rawls" target="Roland" id="221" weight="107" />
+      <edge source="William_Rawls" target="Ellis_Carver/Ziggy" id="222" weight="46" />
+      <edge source="William_Rawls" target="McNulty" id="223" weight="83" />
+      <edge source="William_Rawls" target="Stinger" id="224" weight="14" />
+      <edge source="William_Rawls" target="SPEAKER_08" id="225" weight="9" />
+      <edge source="William_Rawls" target="Herc" id="226" weight="40" />
+      <edge source="William_Rawls" target="Rhonda/Marla" id="227" weight="30" />
+      <edge source="William_Rawls" target="SPEAKER_21" id="228" weight="25" />
+      <edge source="William_Rawls" target="Ervin" id="229" weight="19" />
+      <edge source="William_Rawls" target="Moreland" id="230" weight="11" />
+      <edge source="William_Rawls" target="D'Angelo/Preston/Malik" id="231" weight="5" />
+      <edge source="William_Rawls" target="SPEAKER_18" id="232" weight="5" />
+      <edge source="William_Rawls" target="Rhonda" id="233" weight="2" />
+      <edge source="D'Angelo/Preston/Malik" target="SPEAKER_18" id="234" weight="3" />
+      <edge source="D'Angelo/Preston/Malik" target="Roland" id="235" weight="7" />
+      <edge source="D'Angelo/Preston/Malik" target="Ervin" id="236" weight="4" />
+      <edge source="D'Angelo/Preston/Malik" target="SPEAKER_21" id="237" weight="6" />
+      <edge source="D'Angelo/Preston/Malik" target="Proposition_Joe" id="238" weight="6" />
+      <edge source="D'Angelo/Preston/Malik" target="Herc" id="239" weight="5" />
+      <edge source="D'Angelo/Preston/Malik" target="McNulty" id="240" weight="7" />
+      <edge source="D'Angelo/Preston/Malik" target="Rhonda/Marla" id="241" weight="2" />
+      <edge source="D'Angelo/Preston/Malik" target="Moreland" id="242" weight="7" />
+      <edge source="D'Angelo/Preston/Malik" target="Ellis_Carver/Ziggy" id="243" weight="4" />
+      <edge source="D'Angelo/Preston/Malik" target="Stinger" id="244" weight="2" />
+      <edge source="D'Angelo/Preston/Malik" target="Rhonda" id="245" weight="2" />
+      <edge source="D'Angelo/Preston/Malik" target="SPEAKER_08" id="246" weight="3" />
+      <edge source="Proposition_Joe" target="Ellis_Carver/Ziggy" id="247" weight="20" />
+      <edge source="Proposition_Joe" target="McNulty" id="248" weight="81" />
+      <edge source="Proposition_Joe" target="Roland" id="249" weight="33" />
+      <edge source="Proposition_Joe" target="SPEAKER_18" id="250" weight="59" />
+      <edge source="Proposition_Joe" target="SPEAKER_08" id="251" weight="16" />
+      <edge source="Proposition_Joe" target="Ervin" id="252" weight="35" />
+      <edge source="Proposition_Joe" target="Moreland" id="253" weight="29" />
+      <edge source="Proposition_Joe" target="Rhonda/Marla" id="254" weight="12" />
+      <edge source="Proposition_Joe" target="Herc" id="255" weight="41" />
+      <edge source="Proposition_Joe" target="Stinger" id="256" weight="18" />
+      <edge source="Proposition_Joe" target="Rhonda" id="257" weight="6" />
+      <edge source="Proposition_Joe" target="SPEAKER_21" id="258" weight="8" />
+      <edge source="Ellis_Carver/Ziggy" target="SPEAKER_18" id="259" weight="14" />
+      <edge source="Ellis_Carver/Ziggy" target="Roland" id="260" weight="27" />
+      <edge source="Ellis_Carver/Ziggy" target="Stinger" id="261" weight="61" />
+      <edge source="Ellis_Carver/Ziggy" target="McNulty" id="262" weight="22" />
+      <edge source="Ellis_Carver/Ziggy" target="Rhonda" id="263" weight="9" />
+      <edge source="Ellis_Carver/Ziggy" target="Moreland" id="264" weight="26" />
+      <edge source="Ellis_Carver/Ziggy" target="Ervin" id="265" weight="8" />
+      <edge source="Ellis_Carver/Ziggy" target="Rhonda/Marla" id="266" weight="7" />
+      <edge source="Ellis_Carver/Ziggy" target="SPEAKER_21" id="267" weight="4" />
+      <edge source="Ellis_Carver/Ziggy" target="SPEAKER_08" id="268" weight="7" />
+      <edge source="Ellis_Carver/Ziggy" target="Herc" id="269" weight="11" />
+      <edge source="SPEAKER_18" target="McNulty" id="270" weight="18" />
+      <edge source="SPEAKER_18" target="Roland" id="271" weight="8" />
+      <edge source="SPEAKER_18" target="Moreland" id="272" weight="30" />
+      <edge source="SPEAKER_18" target="Herc" id="273" weight="15" />
+      <edge source="SPEAKER_18" target="SPEAKER_21" id="274" weight="5" />
+      <edge source="SPEAKER_18" target="Ervin" id="275" weight="20" />
+      <edge source="SPEAKER_18" target="Rhonda" id="276" weight="13" />
+      <edge source="SPEAKER_18" target="SPEAKER_08" id="277" weight="52" />
+      <edge source="SPEAKER_18" target="Stinger" id="278" weight="5" />
+      <edge source="SPEAKER_18" target="Rhonda/Marla" id="279" weight="2" />
+      <edge source="Roland" target="SPEAKER_08" id="280" weight="12" />
+      <edge source="Roland" target="SPEAKER_21" id="281" weight="15" />
+      <edge source="Roland" target="Ervin" id="282" weight="17" />
+      <edge source="Roland" target="Rhonda" id="283" weight="4" />
+      <edge source="Roland" target="McNulty" id="284" weight="60" />
+      <edge source="Roland" target="Herc" id="285" weight="21" />
+      <edge source="Roland" target="Moreland" id="286" weight="9" />
+      <edge source="Roland" target="Stinger" id="287" weight="24" />
+      <edge source="Roland" target="Rhonda/Marla" id="288" weight="13" />
+      <edge source="SPEAKER_08" target="McNulty" id="289" weight="21" />
+      <edge source="SPEAKER_08" target="Herc" id="290" weight="30" />
+      <edge source="SPEAKER_08" target="Ervin" id="291" weight="52" />
+      <edge source="SPEAKER_08" target="Stinger" id="292" weight="18" />
+      <edge source="SPEAKER_08" target="Moreland" id="293" weight="18" />
+      <edge source="SPEAKER_08" target="Rhonda" id="294" weight="5" />
+      <edge source="SPEAKER_08" target="Rhonda/Marla" id="295" weight="1" />
+      <edge source="SPEAKER_08" target="SPEAKER_21" id="296" weight="3" />
+      <edge source="McNulty" target="Herc" id="297" weight="36" />
+      <edge source="McNulty" target="SPEAKER_21" id="298" weight="11" />
+      <edge source="McNulty" target="Moreland" id="299" weight="27" />
+      <edge source="McNulty" target="Ervin" id="300" weight="22" />
+      <edge source="McNulty" target="Rhonda" id="301" weight="5" />
+      <edge source="McNulty" target="Stinger" id="302" weight="38" />
+      <edge source="McNulty" target="Rhonda/Marla" id="303" weight="11" />
+      <edge source="Herc" target="Rhonda" id="304" weight="15" />
+      <edge source="Herc" target="Stinger" id="305" weight="14" />
+      <edge source="Herc" target="SPEAKER_21" id="306" weight="60" />
+      <edge source="Herc" target="Rhonda/Marla" id="307" weight="10" />
+      <edge source="Herc" target="Ervin" id="308" weight="82" />
+      <edge source="Herc" target="Moreland" id="309" weight="27" />
+      <edge source="SPEAKER_21" target="Rhonda" id="310" weight="2" />
+      <edge source="SPEAKER_21" target="Stinger" id="311" weight="7" />
+      <edge source="SPEAKER_21" target="Moreland" id="312" weight="3" />
+      <edge source="SPEAKER_21" target="Rhonda/Marla" id="313" weight="9" />
+      <edge source="SPEAKER_21" target="Ervin" id="314" weight="15" />
+      <edge source="Ervin" target="Moreland" id="315" weight="8" />
+      <edge source="Ervin" target="Rhonda/Marla" id="316" weight="6" />
+      <edge source="Ervin" target="Stinger" id="317" weight="46" />
+      <edge source="Ervin" target="Rhonda" id="318" weight="10" />
+      <edge source="Rhonda" target="Rhonda/Marla" id="319" weight="2" />
+      <edge source="Rhonda" target="Stinger" id="320" weight="8" />
+      <edge source="Rhonda" target="Moreland" id="321" weight="3" />
+      <edge source="Stinger" target="Rhonda/Marla" id="322" weight="16" />
+      <edge source="Stinger" target="Moreland" id="323" weight="8" />
+      <edge source="Moreland" target="Rhonda/Marla" id="324" weight="13" />
+    </edges>
+  </graph>
+</gexf>

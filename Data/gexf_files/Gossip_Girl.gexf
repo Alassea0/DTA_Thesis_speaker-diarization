@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-01-02">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="SPEAKER_17" label="SPEAKER_17" />
+      <node id="Chuck" label="Chuck" />
+      <node id="Serena" label="Serena" />
+      <node id="SPEAKER_09" label="SPEAKER_09" />
+      <node id="Eric" label="Eric" />
+      <node id="SPEAKER_26" label="SPEAKER_26" />
+      <node id="Nate" label="Nate" />
+      <node id="SPEAKER_25" label="SPEAKER_25" />
+      <node id="Jenny" label="Jenny" />
+      <node id="Blair" label="Blair" />
+      <node id="Lily" label="Lily" />
+      <node id="Gossip_Girl" label="Gossip_Girl" />
+      <node id="SPEAKER_15" label="SPEAKER_15" />
+      <node id="Rufus" label="Rufus" />
+      <node id="Dan" label="Dan" />
+      <node id="SPEAKER_11" label="SPEAKER_11" />
+      <node id="SPEAKER_24" label="SPEAKER_24" />
+      <node id="SPEAKER_23" label="SPEAKER_23" />
+      <node id="Mr_Van_der_Bilt" label="Mr_Van_der_Bilt" />
+      <node id="SPEAKER_10" label="SPEAKER_10" />
+      <node id="Eleanor" label="Eleanor" />
+    </nodes>
+    <edges>
+      <edge source="SPEAKER_17" target="Chuck" id="0" weight="46" />
+      <edge source="SPEAKER_17" target="Serena" id="1" weight="127" />
+      <edge source="SPEAKER_17" target="Blair" id="2" weight="137" />
+      <edge source="SPEAKER_17" target="SPEAKER_25" id="3" weight="30" />
+      <edge source="SPEAKER_17" target="SPEAKER_09" id="4" weight="44" />
+      <edge source="SPEAKER_17" target="SPEAKER_26" id="5" weight="22" />
+      <edge source="SPEAKER_17" target="SPEAKER_10" id="6" weight="23" />
+      <edge source="SPEAKER_17" target="SPEAKER_11" id="7" weight="74" />
+      <edge source="SPEAKER_17" target="Gossip_Girl" id="8" weight="30" />
+      <edge source="SPEAKER_17" target="Eric" id="9" weight="29" />
+      <edge source="SPEAKER_17" target="SPEAKER_15" id="10" weight="6" />
+      <edge source="SPEAKER_17" target="Jenny" id="11" weight="73" />
+      <edge source="SPEAKER_17" target="Rufus" id="12" weight="35" />
+      <edge source="SPEAKER_17" target="Mr_Van_der_Bilt" id="13" weight="25" />
+      <edge source="SPEAKER_17" target="Nate" id="14" weight="99" />
+      <edge source="SPEAKER_17" target="Eleanor" id="15" weight="7" />
+      <edge source="SPEAKER_17" target="Dan" id="16" weight="41" />
+      <edge source="SPEAKER_17" target="SPEAKER_24" id="17" weight="3" />
+      <edge source="SPEAKER_17" target="Lily" id="18" weight="24" />
+      <edge source="SPEAKER_17" target="SPEAKER_23" id="19" weight="24" />
+      <edge source="Chuck" target="Serena" id="20" weight="389" />
+      <edge source="Chuck" target="Jenny" id="21" weight="45" />
+      <edge source="Chuck" target="Nate" id="22" weight="194" />
+      <edge source="Chuck" target="Dan" id="23" weight="128" />
+      <edge source="Chuck" target="Eric" id="24" weight="128" />
+      <edge source="Chuck" target="SPEAKER_26" id="25" weight="96" />
+      <edge source="Chuck" target="SPEAKER_09" id="26" weight="100" />
+      <edge source="Chuck" target="Mr_Van_der_Bilt" id="27" weight="105" />
+      <edge source="Chuck" target="SPEAKER_10" id="28" weight="67" />
+      <edge source="Chuck" target="Blair" id="29" weight="475" />
+      <edge source="Chuck" target="SPEAKER_11" id="30" weight="21" />
+      <edge source="Chuck" target="Lily" id="31" weight="95" />
+      <edge source="Chuck" target="Gossip_Girl" id="32" weight="60" />
+      <edge source="Chuck" target="SPEAKER_25" id="33" weight="8" />
+      <edge source="Chuck" target="Rufus" id="34" weight="44" />
+      <edge source="Chuck" target="SPEAKER_15" id="35" weight="7" />
+      <edge source="Chuck" target="SPEAKER_24" id="36" weight="29" />
+      <edge source="Chuck" target="Eleanor" id="37" weight="19" />
+      <edge source="Chuck" target="SPEAKER_23" id="38" weight="22" />
+      <edge source="Serena" target="SPEAKER_09" id="39" weight="401" />
+      <edge source="Serena" target="Eric" id="40" weight="610" />
+      <edge source="Serena" target="SPEAKER_25" id="41" weight="72" />
+      <edge source="Serena" target="Jenny" id="42" weight="138" />
+      <edge source="Serena" target="Lily" id="43" weight="293" />
+      <edge source="Serena" target="Blair" id="44" weight="920" />
+      <edge source="Serena" target="Nate" id="45" weight="192" />
+      <edge source="Serena" target="Dan" id="46" weight="1066" />
+      <edge source="Serena" target="SPEAKER_11" id="47" weight="89" />
+      <edge source="Serena" target="Rufus" id="48" weight="165" />
+      <edge source="Serena" target="SPEAKER_24" id="49" weight="70" />
+      <edge source="Serena" target="Gossip_Girl" id="50" weight="186" />
+      <edge source="Serena" target="SPEAKER_26" id="51" weight="215" />
+      <edge source="Serena" target="SPEAKER_15" id="52" weight="34" />
+      <edge source="Serena" target="SPEAKER_23" id="53" weight="117" />
+      <edge source="Serena" target="Mr_Van_der_Bilt" id="54" weight="187" />
+      <edge source="Serena" target="Eleanor" id="55" weight="67" />
+      <edge source="Serena" target="SPEAKER_10" id="56" weight="132" />
+      <edge source="SPEAKER_09" target="Eric" id="57" weight="134" />
+      <edge source="SPEAKER_09" target="Lily" id="58" weight="60" />
+      <edge source="SPEAKER_09" target="Gossip_Girl" id="59" weight="41" />
+      <edge source="SPEAKER_09" target="Nate" id="60" weight="74" />
+      <edge source="SPEAKER_09" target="Rufus" id="61" weight="95" />
+      <edge source="SPEAKER_09" target="Dan" id="62" weight="163" />
+      <edge source="SPEAKER_09" target="Blair" id="63" weight="205" />
+      <edge source="SPEAKER_09" target="SPEAKER_25" id="64" weight="10" />
+      <edge source="SPEAKER_09" target="SPEAKER_10" id="65" weight="37" />
+      <edge source="SPEAKER_09" target="SPEAKER_26" id="66" weight="55" />
+      <edge source="SPEAKER_09" target="SPEAKER_15" id="67" weight="13" />
+      <edge source="SPEAKER_09" target="Mr_Van_der_Bilt" id="68" weight="49" />
+      <edge source="SPEAKER_09" target="Eleanor" id="69" weight="29" />
+      <edge source="SPEAKER_09" target="SPEAKER_23" id="70" weight="28" />
+      <edge source="SPEAKER_09" target="SPEAKER_24" id="71" weight="36" />
+      <edge source="SPEAKER_09" target="Jenny" id="72" weight="40" />
+      <edge source="SPEAKER_09" target="SPEAKER_11" id="73" weight="28" />
+      <edge source="Eric" target="SPEAKER_26" id="74" weight="47" />
+      <edge source="Eric" target="Nate" id="75" weight="47" />
+      <edge source="Eric" target="SPEAKER_15" id="76" weight="25" />
+      <edge source="Eric" target="Lily" id="77" weight="87" />
+      <edge source="Eric" target="Rufus" id="78" weight="88" />
+      <edge source="Eric" target="Blair" id="79" weight="186" />
+      <edge source="Eric" target="Jenny" id="80" weight="93" />
+      <edge source="Eric" target="SPEAKER_24" id="81" weight="52" />
+      <edge source="Eric" target="SPEAKER_25" id="82" weight="48" />
+      <edge source="Eric" target="Dan" id="83" weight="117" />
+      <edge source="Eric" target="SPEAKER_23" id="84" weight="26" />
+      <edge source="Eric" target="Gossip_Girl" id="85" weight="84" />
+      <edge source="Eric" target="SPEAKER_11" id="86" weight="18" />
+      <edge source="Eric" target="SPEAKER_10" id="87" weight="24" />
+      <edge source="Eric" target="Eleanor" id="88" weight="19" />
+      <edge source="Eric" target="Mr_Van_der_Bilt" id="89" weight="36" />
+      <edge source="SPEAKER_26" target="Nate" id="90" weight="38" />
+      <edge source="SPEAKER_26" target="Jenny" id="91" weight="32" />
+      <edge source="SPEAKER_26" target="Blair" id="92" weight="139" />
+      <edge source="SPEAKER_26" target="SPEAKER_24" id="93" weight="10" />
+      <edge source="SPEAKER_26" target="Mr_Van_der_Bilt" id="94" weight="40" />
+      <edge source="SPEAKER_26" target="SPEAKER_25" id="95" weight="11" />
+      <edge source="SPEAKER_26" target="Rufus" id="96" weight="48" />
+      <edge source="SPEAKER_26" target="Gossip_Girl" id="97" weight="18" />
+      <edge source="SPEAKER_26" target="Dan" id="98" weight="84" />
+      <edge source="SPEAKER_26" target="SPEAKER_10" id="99" weight="25" />
+      <edge source="SPEAKER_26" target="SPEAKER_15" id="100" weight="1" />
+      <edge source="SPEAKER_26" target="Eleanor" id="101" weight="9" />
+      <edge source="SPEAKER_26" target="Lily" id="102" weight="27" />
+      <edge source="SPEAKER_26" target="SPEAKER_11" id="103" weight="32" />
+      <edge source="SPEAKER_26" target="SPEAKER_23" id="104" weight="3" />
+      <edge source="Nate" target="Blair" id="105" weight="262" />
+      <edge source="Nate" target="Rufus" id="106" weight="13" />
+      <edge source="Nate" target="SPEAKER_25" id="107" weight="22" />
+      <edge source="Nate" target="Mr_Van_der_Bilt" id="108" weight="101" />
+      <edge source="Nate" target="Lily" id="109" weight="20" />
+      <edge source="Nate" target="Dan" id="110" weight="106" />
+      <edge source="Nate" target="Gossip_Girl" id="111" weight="19" />
+      <edge source="Nate" target="SPEAKER_15" id="112" weight="5" />
+      <edge source="Nate" target="Eleanor" id="113" weight="14" />
+      <edge source="Nate" target="SPEAKER_24" id="114" weight="8" />
+      <edge source="Nate" target="SPEAKER_10" id="115" weight="166" />
+      <edge source="Nate" target="Jenny" id="116" weight="87" />
+      <edge source="Nate" target="SPEAKER_11" id="117" weight="5" />
+      <edge source="Nate" target="SPEAKER_23" id="118" weight="2" />
+      <edge source="SPEAKER_25" target="SPEAKER_15" id="119" weight="6" />
+      <edge source="SPEAKER_25" target="Blair" id="120" weight="65" />
+      <edge source="SPEAKER_25" target="Gossip_Girl" id="121" weight="19" />
+      <edge source="SPEAKER_25" target="Jenny" id="122" weight="11" />
+      <edge source="SPEAKER_25" target="Lily" id="123" weight="74" />
+      <edge source="SPEAKER_25" target="SPEAKER_10" id="124" weight="7" />
+      <edge source="SPEAKER_25" target="Eleanor" id="125" weight="12" />
+      <edge source="SPEAKER_25" target="Dan" id="126" weight="35" />
+      <edge source="SPEAKER_25" target="Mr_Van_der_Bilt" id="127" weight="11" />
+      <edge source="SPEAKER_25" target="Rufus" id="128" weight="61" />
+      <edge source="SPEAKER_25" target="SPEAKER_11" id="129" weight="18" />
+      <edge source="SPEAKER_25" target="SPEAKER_23" id="130" weight="17" />
+      <edge source="SPEAKER_25" target="SPEAKER_24" id="131" weight="9" />
+      <edge source="Jenny" target="Rufus" id="132" weight="241" />
+      <edge source="Jenny" target="Dan" id="133" weight="255" />
+      <edge source="Jenny" target="Blair" id="134" weight="251" />
+      <edge source="Jenny" target="Lily" id="135" weight="34" />
+      <edge source="Jenny" target="Gossip_Girl" id="136" weight="32" />
+      <edge source="Jenny" target="SPEAKER_10" id="137" weight="49" />
+      <edge source="Jenny" target="Mr_Van_der_Bilt" id="138" weight="12" />
+      <edge source="Jenny" target="SPEAKER_11" id="139" weight="64" />
+      <edge source="Jenny" target="SPEAKER_24" id="140" weight="10" />
+      <edge source="Jenny" target="Eleanor" id="141" weight="60" />
+      <edge source="Jenny" target="SPEAKER_23" id="142" weight="7" />
+      <edge source="Jenny" target="SPEAKER_15" id="143" weight="8" />
+      <edge source="Blair" target="Lily" id="144" weight="65" />
+      <edge source="Blair" target="Gossip_Girl" id="145" weight="109" />
+      <edge source="Blair" target="SPEAKER_11" id="146" weight="103" />
+      <edge source="Blair" target="Dan" id="147" weight="222" />
+      <edge source="Blair" target="SPEAKER_24" id="148" weight="67" />
+      <edge source="Blair" target="Mr_Van_der_Bilt" id="149" weight="75" />
+      <edge source="Blair" target="SPEAKER_10" id="150" weight="74" />
+      <edge source="Blair" target="Rufus" id="151" weight="99" />
+      <edge source="Blair" target="SPEAKER_23" id="152" weight="59" />
+      <edge source="Blair" target="Eleanor" id="153" weight="154" />
+      <edge source="Blair" target="SPEAKER_15" id="154" weight="21" />
+      <edge source="Lily" target="Dan" id="155" weight="99" />
+      <edge source="Lily" target="Rufus" id="156" weight="427" />
+      <edge source="Lily" target="Gossip_Girl" id="157" weight="13" />
+      <edge source="Lily" target="SPEAKER_15" id="158" weight="2" />
+      <edge source="Lily" target="Mr_Van_der_Bilt" id="159" weight="93" />
+      <edge source="Lily" target="Eleanor" id="160" weight="28" />
+      <edge source="Lily" target="SPEAKER_23" id="161" weight="12" />
+      <edge source="Lily" target="SPEAKER_11" id="162" weight="15" />
+      <edge source="Lily" target="SPEAKER_24" id="163" weight="5" />
+      <edge source="Lily" target="SPEAKER_10" id="164" weight="11" />
+      <edge source="Gossip_Girl" target="SPEAKER_15" id="165" weight="47" />
+      <edge source="Gossip_Girl" target="SPEAKER_11" id="166" weight="31" />
+      <edge source="Gossip_Girl" target="SPEAKER_23" id="167" weight="17" />
+      <edge source="Gossip_Girl" target="Dan" id="168" weight="54" />
+      <edge source="Gossip_Girl" target="Eleanor" id="169" weight="21" />
+      <edge source="Gossip_Girl" target="Rufus" id="170" weight="34" />
+      <edge source="Gossip_Girl" target="Mr_Van_der_Bilt" id="171" weight="22" />
+      <edge source="Gossip_Girl" target="SPEAKER_10" id="172" weight="15" />
+      <edge source="Gossip_Girl" target="SPEAKER_24" id="173" weight="5" />
+      <edge source="SPEAKER_15" target="Mr_Van_der_Bilt" id="174" weight="4" />
+      <edge source="SPEAKER_15" target="Rufus" id="175" weight="7" />
+      <edge source="SPEAKER_15" target="Dan" id="176" weight="8" />
+      <edge source="SPEAKER_15" target="SPEAKER_24" id="177" weight="4" />
+      <edge source="SPEAKER_15" target="SPEAKER_11" id="178" weight="6" />
+      <edge source="SPEAKER_15" target="SPEAKER_10" id="179" weight="8" />
+      <edge source="SPEAKER_15" target="SPEAKER_23" id="180" weight="2" />
+      <edge source="Rufus" target="Dan" id="181" weight="330" />
+      <edge source="Rufus" target="SPEAKER_11" id="182" weight="18" />
+      <edge source="Rufus" target="Mr_Van_der_Bilt" id="183" weight="42" />
+      <edge source="Rufus" target="SPEAKER_10" id="184" weight="71" />
+      <edge source="Rufus" target="Eleanor" id="185" weight="15" />
+      <edge source="Rufus" target="SPEAKER_23" id="186" weight="15" />
+      <edge source="Rufus" target="SPEAKER_24" id="187" weight="18" />
+      <edge source="Dan" target="SPEAKER_11" id="188" weight="76" />
+      <edge source="Dan" target="SPEAKER_23" id="189" weight="51" />
+      <edge source="Dan" target="Mr_Van_der_Bilt" id="190" weight="50" />
+      <edge source="Dan" target="Eleanor" id="191" weight="26" />
+      <edge source="Dan" target="SPEAKER_24" id="192" weight="23" />
+      <edge source="Dan" target="SPEAKER_10" id="193" weight="228" />
+      <edge source="SPEAKER_11" target="SPEAKER_23" id="194" weight="15" />
+      <edge source="SPEAKER_11" target="SPEAKER_10" id="195" weight="19" />
+      <edge source="SPEAKER_11" target="Eleanor" id="196" weight="5" />
+      <edge source="SPEAKER_11" target="Mr_Van_der_Bilt" id="197" weight="2" />
+      <edge source="SPEAKER_11" target="SPEAKER_24" id="198" weight="3" />
+      <edge source="SPEAKER_24" target="SPEAKER_23" id="199" weight="2" />
+      <edge source="SPEAKER_24" target="Mr_Van_der_Bilt" id="200" weight="16" />
+      <edge source="SPEAKER_24" target="Eleanor" id="201" weight="22" />
+      <edge source="SPEAKER_24" target="SPEAKER_10" id="202" weight="4" />
+      <edge source="SPEAKER_23" target="SPEAKER_10" id="203" weight="12" />
+      <edge source="SPEAKER_23" target="Eleanor" id="204" weight="10" />
+      <edge source="SPEAKER_23" target="Mr_Van_der_Bilt" id="205" weight="1" />
+      <edge source="Mr_Van_der_Bilt" target="Eleanor" id="206" weight="30" />
+      <edge source="Mr_Van_der_Bilt" target="SPEAKER_10" id="207" weight="11" />
+      <edge source="SPEAKER_10" target="Eleanor" id="208" weight="9" />
+    </edges>
+  </graph>
+</gexf>
